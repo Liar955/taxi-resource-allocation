@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+.Rhistory
+
+data/raw/
+data/processed/
+*.parquet
+*.csv
+*.zip
+
+*.backup_before_spatiotemporal.ipynb
+new_nyc taxi or.ipynb
+nyc taxi or.ipynb
